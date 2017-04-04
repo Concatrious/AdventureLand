@@ -3,5 +3,12 @@ A RPG made completely in python where you can battle monsters and other creature
 
 #ADVENTURELAND#
 -------------------------------------------------------------
-``` This is a program that like I said above is supposed to be an adventure RPG looter
-it would be awesomeif alot of people want to help with this project and make it a reality```
+
+
+
+``` This is a program that like
+  I said above is supposed to be 
+  an adventure RPG looter
+  it would be awesomeif alot of 
+  people want to help with this 
+  project and make it a reality```
